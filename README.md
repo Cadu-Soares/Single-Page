@@ -2,13 +2,13 @@
 Sign Up page using HTML, CSS and JAVASCRIPT.<br/>
 This project was made for a practical study.<br/><br/>
 ***WEB VERSION***<br/>
-<img src="img/final-01" alt="Web Version"/>
+<img src="img/final-01.png" alt="Web Version"/>
 <br/>
-<img src="img/final-02" alt="Web Version"/>
+<img src="img/final-02.png" alt="Web Version"/>
 <br/>
-<img src="img/final-03" alt="Web Version"/>
+<img src="img/final-03.png" alt="Web Version"/>
 <br/>
-<img src="img/final-04" alt="Web Version"/>
+<img src="img/final-04.png" alt="Web Version"/>
 <br/>
 
 ## 🚀 Starting
