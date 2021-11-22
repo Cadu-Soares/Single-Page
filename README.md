@@ -4,6 +4,8 @@ This project was made for a practical study.<br/><br/>
 ***WEB VERSION***<br/>
 <img src="img/final-01.png" alt="Web Version"/>
 <br/>
+<img src="img/final-05.png" alt="Web Version"/>
+<br/>
 <img src="img/final-02.png" alt="Web Version"/>
 <br/>
 <img src="img/final-03.png" alt="Web Version"/>
