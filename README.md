@@ -1,5 +1,5 @@
 # Landing-Page
-Sign Up page using HTML, CSS and JAVASCRIPT.<br/>
+A landing page model using HTML, CSS and JAVASCRIPT.<br/>
 This project was made for a practical study.<br/><br/>
 ***WEB VERSION***<br/>
 <img src="img/final-01.png" alt="Web Version"/>
