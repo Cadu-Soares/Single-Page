@@ -1,5 +1,5 @@
-# Landing-Page
-A landing page model using HTML, CSS and JAVASCRIPT.<br/>
+# Single-Page
+A Single-page aplication (SPA) model using HTML, CSS and JAVASCRIPT.<br/>
 This project was made for a practical study.<br/><br/>
 ***WEB VERSION***<br/>
 <img src="img/final-01.png" alt="Web Version"/>
